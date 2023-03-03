@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pbtl-front/static/css/main.c9431b56.css",
+    "main.js": "/pbtl-front/static/js/main.c7168e58.js",
+    "static/js/787.bcf96f60.chunk.js": "/pbtl-front/static/js/787.bcf96f60.chunk.js",
+    "static/media/pb_prod_code_230228.csv": "/pbtl-front/static/media/pb_prod_code_230228.e3b2c321dd6a1bc018d3.csv",
+    "index.html": "/pbtl-front/index.html",
+    "main.c9431b56.css.map": "/pbtl-front/static/css/main.c9431b56.css.map",
+    "main.c7168e58.js.map": "/pbtl-front/static/js/main.c7168e58.js.map",
+    "787.bcf96f60.chunk.js.map": "/pbtl-front/static/js/787.bcf96f60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9431b56.css",
+    "static/js/main.c7168e58.js"
+  ]
+}
